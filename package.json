@@ -63,7 +63,7 @@
     "husky": "0.14.3",
     "lint-staged": "7.1.0",
     "nyc": "11.8.0",
-    "prettier": "1.12.1",
+    "prettier": "2.8.4",
     "prettier-eslint": "8.8.1",
     "prettier-eslint-cli": "4.7.1",
     "tap-xunit": "2.3.0"
